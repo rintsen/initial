@@ -1,0 +1,2 @@
+# initial
+configuracion inicial
