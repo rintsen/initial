@@ -1,2 +1,2 @@
 # initial
-configuracion inicial
+configuración inicial
